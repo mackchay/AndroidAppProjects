@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">firstStep</string>
+    <string name="other_info_text">Куда ещё можно войти с\n паролем от Газуслуг?</string>
+    <string name="main_title">газуслуги</string>
+    <string name="register_button">Зарегистрироваться</string>
+    <string name="login_text_name">Введите имя</string>
+    <string name="login_text_surname">Введите фамилию</string>
+    <string name="login_text_date">Введите дату рождения</string>
+    <string name="password_text">Введите пароль</string>
+    <string name="password_repeat__text">Повторите пароль</string>
+    <string name="open_button">Войти</string>
+    <string name="greetings_button">Привет</string>
+</resources>
